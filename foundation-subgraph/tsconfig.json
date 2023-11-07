@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["es5", "es6", "ES2021.String"],
+    "jsx": "react",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "outDir": "dist",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es5"
+  },
+  "exclude": ["artifacts/**/*", "node_modules"],
+  "include": [
+    "./deploy",
+    "hardhat*.config.ts",
+    "helpers",
+    "scripts/**/*",
+    "src/**/*",
+    "subgraph/**/*",
+    "tasks/**/*",
+    "test/**/*",
+    "test-supplemental/**/*",
+    "versions",
+    "subgraph/tests",
+    "test-subgraph-integration",
+    "test-mainnet-fork",
+    "addresses.js",
+    "test-gas-stories/**/*"
+  ]
+}
