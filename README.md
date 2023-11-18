@@ -62,7 +62,6 @@ Winners will be listed at the quest repository README. If you do not wish to be 
 
 - [Quickstart](https://docs.subsquid.io/deploy-squid/quickstart/)
 - [TheGraph Migration guide](https://docs.subsquid.io/migrate/migrate-subgraph/)
-- [Cryptopunks Subgraph source code](https://github.com/itsjerryokolo/CryptoPunks)
 
 # Setup and Common errors
 
