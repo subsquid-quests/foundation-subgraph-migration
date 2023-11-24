@@ -18,7 +18,7 @@ This quest is to migrate the [Foundation subgraph](https://thegraph.com/explorer
 
 | Category         | Skill Level                           | Time required (hours) | Max Participants | Reward                                | Status | End date |
 | ---------------- | ------------------------------------- | --------------------- | ----------- | ------------------------------------- | ------ | -------- |
-| Migration | $\textcolor{orange}{\textsf{Medium}}$ | ~20              | 5           | $\textcolor{red}{\textsf{3000tSQD}}$  | open   | 23/11/2023 | 
+| Migration | $\textcolor{orange}{\textsf{Medium}}$ | ~20              | 5           | $\textcolor{red}{\textsf{3000tSQD}}$  | in review  | 23/11/2023 | 
 
 # Acceptance critera
 
